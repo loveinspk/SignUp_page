@@ -1,0 +1,42 @@
+
+h2{
+
+    text-decoration: wavy;
+
+}
+p{
+    color: #fcfffd;
+    padding-top: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+body {
+    color: #fcfffd;
+    background-color:#011627;
+    font-family: 'Baloo Tamma 2', cursive;
+    text-align: center;
+    border: 35px solid #026893;
+    border-top: 0px;
+    margin: 0px;
+}
+
+
+#btn{
+    
+    background-color: coral;
+    box-sizing: border-box;
+    box-shadow: initial;
+    border-radius: 25px;
+    height: 80px;
+    width:150px;
+    font-size: 1.5em;
+    margin-bottom: 5px;
+    border-color: darkcyan;
+   
+
+
+
+}
+
+    
